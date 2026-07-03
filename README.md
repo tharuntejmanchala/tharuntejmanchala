@@ -8,10 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharuntejmanchala&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tharuntejmanchala?label=Followers&style=for-the-badge&color=6E40C9&labelColor=1a1a2e" alt="Followers" />
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/tharuntejmanchala" target="_blank">
