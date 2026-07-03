@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tharuntejmanchala">
+  <a href="https://linkedin.com/in/tharuntejmanchala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -24,6 +24,14 @@
   &nbsp;
   <a href="https://github.com/tharuntejmanchala">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://tharuntejmanchala.github.io/tharuntejmanchala/" target="_blank">
+    <img src="https://img.shields.io/badge/🔮_Explore_Interactive_React_Portfolio-Click_Here-6E40C9?style=for-the-badge&logo=react&logoColor=white" alt="Interactive Portfolio"/>
   </a>
 </p>
 
@@ -104,19 +112,6 @@ tharun = {
 | 📄 **Doc Processing** | Secure document ingestion, chunking, and embedding pipeline |
 | 🤖 **LLM Integration** | Context-aware response generation via OpenAI API |
 | 🏗️ **Architecture** | FastAPI microservices + PostgreSQL metadata management |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharuntejmanchala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharuntejmanchala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharuntejmanchala&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" alt="GitHub Streak" width="70%" />
-</p>
 
 ---
 
