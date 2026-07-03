@@ -55,26 +55,21 @@ I am a **Computer Science undergraduate at JNTUH** passionate about designing hi
 
 <br/>
 
-```tsx
-import React from 'react';
-import { Developer } from 'tharuntej';
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-RAG%20%7C%20Backend%20%7C%20AI%20Search-6E40C9?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Building-Knowledge%20Assistant-009688?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Goal-SDE%20%7C%20Backend%20%7C%20AI%20Roles-1a1a2e?style=for-the-badge&logoColor=white" />
+</p>
 
-const TharunTej: React.FC = () => {
-  return (
-    <Developer
-      role="Backend & RAG Developer"
-      focus={["RAG Pipelines", "Backend Engineering", "AI Search Systems"]}
-      building="Secure Employee Knowledge Assistant with hybrid vector search"
-      stack={["FastAPI", "Qdrant", "PostgreSQL", "React.js", "JavaScript"]}
-      askMe={["RAG", "Vector DBs", "FastAPI", "Semantic Search", "SQL"]}
-      goal="SDE / Backend / AI Engineer roles"
-      motto="Build. Learn. Scale. Repeat. 🚀"
-    />
-  );
-};
-
-export default TharunTej;
-```
+> ### 💡 Developer Blueprint
+> - 🎯 **Core Focus:** RAG Pipelines • Backend Engineering • AI Search Systems
+> - 🏗️ **Currently Building:** *Secure Employee Knowledge Assistant* (integrating role-based access control inside vector spaces)
+> - 🛠️ **Primary Stack:** `FastAPI` &nbsp;&bull;&nbsp; `Qdrant` &nbsp;&bull;&nbsp; `PostgreSQL` &nbsp;&bull;&nbsp; `React` &nbsp;&bull;&nbsp; `JavaScript`
+> - 💬 **Ask Me About:** Semantic Search, RAG Architectures, API Latency Optimization, and SQL
+> - 🎯 **Career Goal:** Actively seeking **SDE / Backend / AI Engineer** internship and full-time roles
+> - 🚀 **Motto:** *Build. Learn. Scale. Repeat. 🚀*
 
 ---
 
