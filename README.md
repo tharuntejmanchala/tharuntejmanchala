@@ -55,16 +55,25 @@ I am a **Computer Science undergraduate at JNTUH** passionate about designing hi
 
 <br/>
 
-```python
-# Developer Profile Dictionary
-tharun = {
-    "focus"   : ["RAG Pipelines", "Backend Engineering", "AI Search Systems"],
-    "building": "Secure Employee Knowledge Assistant with hybrid vector search",
-    "stack"   : ["FastAPI", "Qdrant", "PostgreSQL", "React.js", "JavaScript"],
-    "ask_me"  : ["RAG", "Vector DBs", "FastAPI", "Semantic Search", "SQL"],
-    "goal"    : "SDE / Backend / AI Engineer roles",
-    "motto"   : "Build. Learn. Scale. Repeat. 🚀"
-}
+```tsx
+import React from 'react';
+import { Developer } from 'tharuntej';
+
+const TharunTej: React.FC = () => {
+  return (
+    <Developer
+      role="Backend & RAG Developer"
+      focus={["RAG Pipelines", "Backend Engineering", "AI Search Systems"]}
+      building="Secure Employee Knowledge Assistant with hybrid vector search"
+      stack={["FastAPI", "Qdrant", "PostgreSQL", "React.js", "JavaScript"]}
+      askMe={["RAG", "Vector DBs", "FastAPI", "Semantic Search", "SQL"]}
+      goal="SDE / Backend / AI Engineer roles"
+      motto="Build. Learn. Scale. Repeat. 🚀"
+    />
+  );
+};
+
+export default TharunTej;
 ```
 
 ---
