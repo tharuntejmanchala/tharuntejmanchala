@@ -29,21 +29,37 @@
 
 ---
 
-<p align="center">
-  <a href="https://tharuntejmanchala.github.io/tharuntejmanchala/" target="_blank">
-    <img src="https://img.shields.io/badge/🔮_Explore_Interactive_React_Portfolio-Click_Here-6E40C9?style=for-the-badge&logo=react&logoColor=white" alt="Interactive Portfolio"/>
-  </a>
-</p>
-
----
-
 ## 🚀 About Me
 
 > **Backend & RAG Developer** building intelligent, secure, and scalable AI-powered systems.
 
 I am a **Computer Science undergraduate at JNTUH** passionate about designing high-performance backend architectures, integrating vector databases for semantic search, and building enterprise-grade RAG pipelines.
 
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 Core Focus</h3>
+      <ul>
+        <li><b>RAG Pipelines:</b> Context-aware LLM reasoning with secure multi-tenant filtering.</li>
+        <li><b>Backend Engineering:</b> High-throughput asynchronous services and modular microservices.</li>
+        <li><b>AI Search Systems:</b> Hybrid sparse/dense search combining BM25 with vector retrieval.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Quick Facts</h3>
+      <ul>
+        <li><b>Currently Building:</b> Secure Employee Knowledge Assistant (FastAPI + Qdrant).</li>
+        <li><b>Primary Stack:</b> FastAPI, Qdrant, PostgreSQL, React, Docker.</li>
+        <li><b>Career Goal:</b> Active seeking SDE, Backend, or AI Engineering opportunities.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ```python
+# Developer Profile Dictionary
 tharun = {
     "focus"   : ["RAG Pipelines", "Backend Engineering", "AI Search Systems"],
     "building": "Secure Employee Knowledge Assistant with hybrid vector search",
@@ -112,14 +128,6 @@ tharun = {
 | 📄 **Doc Processing** | Secure document ingestion, chunking, and embedding pipeline |
 | 🤖 **LLM Integration** | Context-aware response generation via OpenAI API |
 | 🏗️ **Architecture** | FastAPI microservices + PostgreSQL metadata management |
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tharuntejmanchala/tharuntejmanchala/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ---
 
