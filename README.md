@@ -1,5 +1,12 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Tharun+Tej+Manchala!+%F0%9F%91%8B;Backend+%26+RAG+Developer;AI+Search+Architect;FastAPI+%7C+Qdrant+%7C+PostgreSQL+%7C+React" alt="Typing SVG" />
+  </a>
+</p>
+
 # Tharun Tej Manchala
 ### Backend Engineer | RAG Developer | AI Search Architect
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharuntejmanchala) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharuntej2021@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharuntejmanchala)
 
