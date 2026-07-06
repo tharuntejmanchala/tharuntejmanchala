@@ -39,6 +39,7 @@ tharun = {
 **💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,25 +48,32 @@ tharun = {
 **⚙️ Backend & AI / RAG**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **🗄️ Databases & Vector Search**
 
 ![Qdrant](https://img.shields.io/badge/Qdrant-D1383D?style=for-the-badge&logo=qdrant&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **🎨 Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**🔧 Tools & DevOps**
+**🔧 Tools, Security & Cloud**
 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -93,23 +101,25 @@ tharun = {
 
 <br/>
 
-### 📊 Customer Sentiment System
+### 📊 CESTS — Customer Engagement & Sentiment Tracking System
 
-> *A scalable sentiment analysis backend and dashboard designed to aggregate, analyze, and classify customer feedback in real-time.*
+> *A comprehensive, AI-powered system designed to analyze customer engagement and sentiment using hybrid deep learning, rule-based NLP, and generative audio transcription.*
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
 
-| Feature | Details |
+| Feature / Layer | Technical Stack & Implementation |
 |:---|:---|
-| 📈 **Real-time Processing** | Ingests and analyzes user reviews and feedback streams dynamically |
-| 🤖 **Sentiment Analysis** | Classifies customer feedback into positive, negative, and neutral categories using NLP |
-| 📊 **Dashboard Analytics** | Offers detailed visual graphs and summaries of sentiment trends over time |
-| 🔌 **REST API Integration** | Robust API endpoints designed to automate sentiment rating checkups |
-| 🗄️ **Data Storage** | Integrates MongoDB for storing processed feedback logs and user analytics metadata |
+| 🖥️ **Frontend Client** | Single Page Application built with **React.js**, **Vite**, **TypeScript**, **Tailwind CSS v4**, **React Router v7**, and **Recharts** for interactive analytics rendering. |
+| ⚙️ **Backend Services** | Asynchronous, high-performance API endpoints orchestrated with **FastAPI** (Python), served via **Uvicorn**, and integrated with MongoDB using **PyMongo**. |
+| 🤖 **NLP Engine (AI/ML)** | Hybrid system featuring **TensorFlow/Keras** (`sentiment_model.h5` deep learning model), **VADER** for lexicon-based sentiment scoring, and **Google Gemini REST API** (`gemini-2.5-flash`) for audio transcribing and summarization. |
+| 🗄️ **Database & Storage** | Production-ready **MongoDB Atlas** cloud NoSQL store with local fallback integration utilizing **SQLite** for development environments. |
+| 🔐 **Authentication & Security** | User identities managed through **Firebase Authentication** (Google OAuth 2.0 & Email/Password login), with security validated in the backend using the **Firebase Admin SDK**. |
+| ☁️ **Cloud Deployment** | Automatic continuous deployments with the Frontend hosted on **Vercel** and the Backend deployed on **Render**. |
 
 ---
 
