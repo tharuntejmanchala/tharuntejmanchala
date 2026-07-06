@@ -48,7 +48,6 @@ tharun = {
 **⚙️ Backend & AI / RAG**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -64,7 +63,6 @@ tharun = {
 **🎨 Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **🔧 Tools, Security & Cloud**
@@ -110,29 +108,15 @@ tharun = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
 
 | Feature / Layer | Technical Stack & Implementation |
 |:---|:---|
-| 🖥️ **Frontend Client** | Single Page Application built with **React.js**, **Vite**, **TypeScript**, **Tailwind CSS v4**, **React Router v7**, and **Recharts** for interactive analytics rendering. |
+| 🖥️ **Frontend Client** | Single Page Application built with **React.js**, **TypeScript**, **Tailwind CSS v4**, **React Router v7**, and **Recharts** for interactive analytics rendering. |
 | ⚙️ **Backend Services** | Asynchronous, high-performance API endpoints orchestrated with **FastAPI** (Python), served via **Uvicorn**, and integrated with MongoDB using **PyMongo**. |
-| 🤖 **NLP Engine (AI/ML)** | Hybrid system featuring **TensorFlow/Keras** (`sentiment_model.h5` deep learning model), **VADER** for lexicon-based sentiment scoring, and **Google Gemini REST API** (`gemini-2.5-flash`) for audio transcribing and summarization. |
+| 🤖 **NLP Engine (AI/ML)** | Hybrid system featuring **TensorFlow/Keras** (`sentiment_model.h5` deep learning model), and **VADER** for lexicon-based sentiment scoring, plus REST APIs for audio transcribing and summarization. |
 | 🗄️ **Database & Storage** | Production-ready **MongoDB Atlas** cloud NoSQL store with local fallback integration utilizing **SQLite** for development environments. |
 | 🔐 **Authentication & Security** | User identities managed through **Firebase Authentication** (Google OAuth 2.0 & Email/Password login), with security validated in the backend using the **Firebase Admin SDK**. |
 | ☁️ **Cloud Deployment** | Automatic continuous deployments with the Frontend hosted on **Vercel** and the Backend deployed on **Render**. |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharuntejmanchala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharuntejmanchala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharuntejmanchala&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" width="70%" />
-</p>
 
 ---
 
