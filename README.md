@@ -3,11 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharuntejmanchala&label=Profile+Views&color=6E40C9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/tharuntejmanchala?label=Followers&style=for-the-badge&color=6E40C9&labelColor=1a1a2e" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tharuntej2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/tharuntejmanchala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
