@@ -118,14 +118,6 @@ tharun = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tharuntejmanchala/tharuntejmanchala/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 🎯 Career Objective
 
 I am actively seeking **Backend Developer**, **AI/RAG Engineer**, and **SDE** internship and full-time opportunities where I can contribute to impactful products, architect intelligent data pipelines, and grow as a software engineer.
