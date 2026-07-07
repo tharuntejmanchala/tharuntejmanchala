@@ -93,7 +93,7 @@ tharun = {
 
 <br/>
 
-### 📊 CESTS — Customer Engagement & Sentiment Tracking System
+### 📊 [CESTS — Customer Engagement & Sentiment Tracking System](https://github.com/tharuntejmanchala/customer-sentiment-analysis)
 
 > *A comprehensive, AI-powered system designed to analyze customer engagement and sentiment using hybrid deep learning, rule-based NLP, and generative audio transcription.*
 
